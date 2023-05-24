@@ -30,6 +30,17 @@ Para fazer este projeto foi utilizado:
 - Webpack
 - NodeJs
 
+
+## Autores
+
+- [Origamid Site](https://www.origamid.com)
+
+- [Origamid Intagram](https://www.instagram.com/origamid.cursos/)
+
+- [Origamid Github](https://github.com/origamid)
+
+## License
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
